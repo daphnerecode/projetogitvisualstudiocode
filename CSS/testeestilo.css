@@ -1,0 +1,415 @@
+.menu ul li a {
+    font-size: x-large;
+    color: #333;
+    text-decoration: none;
+   border-top: 5px solid #EDEDED;
+   border-bottom: 5px solid #EDEDED;
+   padding: 80px;
+   margin-top: 100px;
+   padding-bottom: 5=10px;
+   float:left;
+  }
+.menu ul{
+   padding:0x;
+   margin:0px;
+   width:100%;
+   list-style:none;
+   font:80% Tahoma;
+}
+.menu ul li { 
+   display: inline;
+}
+.logo{
+    padding-right: 0px;
+    height: 400x;
+    width: 350px;
+    margin-right: 0px;
+    padding: 0px;
+    margin-left: 2%;
+    padding-left: 0%;
+    float: left;
+}
+.logo2{
+    height: 300x;
+    width: 350px;
+    margin-left:50px;
+    padding: 0px;
+}
+.template{
+    width: 50%;
+    height:450px;
+    margin-right: 320px;
+}
+.subtitulo{
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+    padding-bottom: 100px;
+    display: inline;
+}
+.body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.fotomenu{
+padding-top:0px;   
+margin-top:0px;
+width: 100%;
+height:900px;
+}
+.confiradestinos{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    width: 600px;
+    height:400px;
+}
+.ofertas{
+    margin-left: 40%;
+}
+
+.dicas{
+    position: absolute;
+    margin-top:0px;
+    padding-top: 0px;
+}
+.fotosdomeio1{
+    margin-top:0px;
+    padding-top: 0px;
+    margin-right: 200px;
+    width:600px;
+    height:500px;
+    float: right;
+    position: relative;
+    padding-bottom: 0px;
+    margin-bottom:0px;
+}
+.fotosdomeio2{
+    margin-top:0px;
+    padding-top: 0px;
+    padding-right:200px;
+    width:600px;
+    height:500px;
+    padding-bottom: 0px;
+    margin-bottom:0px;
+}
+.fotosdomeio3{
+    margin-top:0px;
+    padding-top: 0px;
+    padding-right:200px;
+    width:600px;
+    height:500px;
+    float: right;
+    padding-bottom: 0px;
+    margin-bottom:0px;
+}
+    .fotosdomeio4{
+        margin-right: 200px;
+        margin-top:1000px;
+        padding-top: 0px;
+        width:600px;
+        height:500px;
+        float: right;
+        position: relative;
+        padding-bottom: 0px;
+        margin-bottom:0px;
+    }
+    .fotosdomeio5{
+        margin-top:1000px;
+        padding-top: 0px;
+        padding-right:200px;
+        width:600px;
+        height:500px;
+        padding-bottom: 0px;
+        margin-bottom:0px;
+    }
+    .fotosdomeio6{
+        margin-top:1000px;
+        padding-top: 0px;
+        padding-right:200px;
+        width:600px;
+        height:500px;
+        float: right;
+        padding-bottom: 0px;
+        margin-bottom:0px;
+    }
+        .fotosdomeio7{
+            margin-right: 400 px;
+            margin-top:2000px;
+            padding-top: 0px;
+            width:600px;
+            height:500px;
+            float: right;
+            position: relative;
+            padding-bottom: 0px;
+            margin-bottom:0px;
+        }
+        .fotosdomeio8{
+            margin-top:2000px;
+            padding-top: 0px;
+            padding-right:200px;
+            width:600px;
+            height:500px;
+            padding-bottom: 0px;
+            margin-bottom:0px;
+        }
+        .fotosdomeio9{
+            margin-top:2000px;
+            padding-top: 0px;
+            padding-right:200px;
+            width:600px;
+            height:500px;
+            float: right;
+            padding-bottom: 0px;
+            margin-bottom:0px;
+}
+.lg_resorts{
+    position: absolute;
+    display:inline;
+
+}
+.lg_fotosdomeio1{
+    margin-top: 400px;
+    padding-top: 0px; 
+    width:300px;
+    height:300px;
+    float: left;
+}
+.lg_fotosdomeio2{
+    margin-top: 400px;
+    padding-top: 0px; 
+    width:300px;
+    height:300; 
+    margin-left: 400px; 
+    padding-left:20px;
+}
+.lg_fotosdomeio3{
+    margin-top: 400px;
+    padding-top: 0px; 
+    width:300px;
+    height:300px;
+   margin-left:500px;
+}
+.lg_fotosdomeio4{
+    margin-top: 1200px;
+    padding-top: 200px;  
+    width:300px;
+    height:300px;
+   margin-left:10px;
+}
+.lg_fotosdomeio5{
+    margin-top: 1200px;
+    padding-top: 200px; 
+    width:300px;
+    height:300px;
+   margin-left:500px;
+}
+.lg_fotosdomeio6{
+    margin-top: 1200px;
+    padding-top: 200px;  
+    width:300px;
+    height:300px;
+   margin-left:500px;
+}
+.lg_fotosdomeio7{
+    margin-top: 2200px;
+    padding-top: 200px;  
+    width:300px;
+    height:300px;
+   margin-left:20px;
+}
+.lg_fotosdomeio8{
+    margin-top: 2200px;
+    padding-top: 200px;  
+    width:300px;
+    height:300px;
+   margin-left:480px;
+}
+.lg_fotosdomeio9{
+    margin-top: 2200px;
+    padding-top: 200px;  
+    width:300px;
+    height:300px;
+   margin-left:500px;
+}
+.saibamais{
+    position: absolute;
+}
+.saibamaisipioca{
+    padding-top: 0px; 
+    margin-top: 500px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left:300px;
+    border: 5px solid #c9c6c6;
+}
+.saibamaisilhagrande{
+    padding-top: 0px; 
+    margin-top: 500px;
+    width: 300px;
+    height: 300px;
+    margin-left:400px;
+    border: 5px solid #c9c6c6;
+}
+.saibamaisnatal{
+    padding-top: 0px;    
+    margin-top: 500px;
+    width: 300px;
+    height: 300px;
+    margin-left:500px;
+    border: 5px solid #c9c6c6;
+}
+.saibamais4{
+    padding-top: 100px; 
+    margin-top: 1500px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left:300px;
+    border: 5px solid #c9c6c6;
+}
+.saibamais5{
+    padding-top: 100px; 
+    margin-top: 1500px;
+    width: 300px;
+    height: 300px;
+    margin-left:500px;
+    border: 5px solid #c9c6c6;
+}
+.saibamais6{
+    padding-top: 100px;    
+    margin-top: 1500px;
+    width: 300px;
+    height: 300px;
+    margin-left:500px;
+    border: 5px solid #c9c6c6;
+}
+.saibamais7{
+    padding-top: 100px; 
+    margin-top: 2500px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left:300px;
+    border: 5px solid #c9c6c6;
+}
+.saibamais8{
+    padding-top: 100px; 
+    margin-top: 2500px;
+    width: 300px;
+    height: 300px;
+    margin-left:450px;
+    border: 5px solid #c9c6c6;
+}
+.saibamais9{
+    padding-top: 100px;    
+    margin-top: 2500px;
+    width: 300px;
+    height: 300px;
+    margin-left:550px;
+    border: 5px solid #c9c6c6;
+}
+.motivosescolha{
+    position: absolute;
+    display:inline;
+}
+.banner_motivos1{
+    margin-top: 300px;
+    width: 45%;
+    height:500px;
+    float:left;
+    padding-right:0;
+    padding-left:0;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 600px;
+}
+.banner_motivos2{
+    margin-top: 300px;
+    width: 45%;
+    height:500px;
+    padding-right:0;
+    padding-left:0;
+    padding-top: 600px;
+}
+.sobrenos{
+    margin-top: 1500px;
+    font:Tahoma;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rodape{
+    width: 100%;
+    height: 100px;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+#redessociais{
+    margin-left: 65%;
+    align-items: baseline;
+   display:flex;
+}
+#redessociais0{
+    margin: 0px;
+    margin-bottom: 0px;
+    padding:0px;
+    text-align: center;
+    width: 100px;
+}
+.form-group{
+    font-size: xx-large;
+}
+#redessociais1{
+    width: 100px;
+}
+#redessociais2 {
+width: 90px;
+}
+#redessociais3{
+    width: 200px;
+}
+#redessociais4{
+width: 120px;
+}
+
+.destinos{
+    margin: 0 auto;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width:600px;
+    height:400px;
+    padding: 100px;
+    padding-top: 100px;
+}
+.destino1{
+    margin-left: 100px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width:600px;
+    height:400px;
+    padding: 100px;
+    padding-top: 100px;
+
+.legendas{
+    margin: 0;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width:500px;
+    height:400px;
+    padding: 300px;
+    padding-top: 0px;
+    }
+.lg_destino1{
+    margin-left: 400px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width:600px;
+    height:400px;
+    padding: 200px;
+    padding-top: 100px;
+}
